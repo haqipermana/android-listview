@@ -1,1 +1,1 @@
-![alt text](http://url/to/Screenshot_20200508-151858.jpg)
+http://url/to/Screenshot_20200508-151858.jpg
